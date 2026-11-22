@@ -1,0 +1,4 @@
+interface:
+  display_name: "SOLIDWORKS 机械结构设计"
+  short_description: "建立参数化机械结构，让装配可拖动、转向和滚动，验证受力响应、工程图和原生文件。"
+  default_prompt: "使用 $solidworks-mechanical-workflow 设计或修改机械结构，并按用途验证关键尺寸、装配联动或推力松手后的运动。"
